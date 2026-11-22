@@ -1,0 +1,8 @@
+{
+  "job_id": "job_79aebcdc9801",
+  "sourceRepoUrl": "https://github.com/krishnapollu/playwright-java",
+  "targetJavaVersion": "8",
+  "status": "MIGRATION_CHECKPOINT",
+  "overallMigrationStatus": "PARTIALLY_COMPLETED",
+  "migration_date": ""
+}
